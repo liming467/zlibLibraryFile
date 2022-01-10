@@ -1,4 +1,4 @@
-# zlibLibraryFile
+# zlib library file
 zlib已经编译好的静、动态库文件 ，其中bin文件中包含了x86、x64版本的lib、dll文件。  
 static and dynamic library file for zlib 1.2.11. bin file includes .lib and .dll files for x86 and x64.
 
